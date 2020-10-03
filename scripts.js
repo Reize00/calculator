@@ -34,9 +34,3 @@ function operate(operator, num1, num2) {
             console.log("Error");
     }
 }
-
-let operator = prompt("Enter an operator");
-let num1 = prompt("Enter a number");
-let num2 = prompt("Enter a second number");
-
-operate(operator, num1, num2);
